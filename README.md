@@ -3,6 +3,9 @@ Simple html to numbers converter
 
 ## Requirements
 The code uses xclip to copy the output to the clipboard, so you save yourself the step of copying
+```
+sudo apt-get install xclip -y
+```
 
 ### Help interface display:
 ```
