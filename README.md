@@ -2,7 +2,7 @@
 Simple html to numbers converter
 
 ## Requirements
-The code uses xclip to copy the output to the clipboard, so you save yourself the step of copying
+The code uses xclip to copy the output to the clipboard, so you save yourself the step of copying, this only applies to the --string parameter, you can also decide to copy when using the --file parameter
 ```
 sudo apt-get install xclip -y
 ```
