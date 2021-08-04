@@ -1,5 +1,5 @@
 # html2num
-Simple html to numbers converter
+Simple html to numbers converter, i develop this script to automate html injection tests on web pages
 
 ## Requirements
 The code uses xclip to copy the output to the clipboard, so you save yourself the step of copying, this only applies to the --string parameter, you can also decide to copy when using the --file parameter
