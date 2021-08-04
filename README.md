@@ -9,7 +9,7 @@ sudo apt-get install xclip -y
 
 ### Help interface display:
 ```
-python3 char_hmtml.py --help
+python3 char_html.py --help
 ```
 
 ## Options
